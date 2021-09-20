@@ -1,1 +1,2 @@
-# cs320-p1
+# cs320-lab2
+# hello world
